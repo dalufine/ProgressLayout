@@ -83,7 +83,7 @@ dependencies {
 
 # Design
 
-Design is inspired by [Amine Ghabi #Androgeek](https://plus.google.com/114179835303944979306/posts)
+Design is inspired by [Amine Ghabi](https://plus.google.com/114179835303944979306/posts)
 
 License
 --------
