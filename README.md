@@ -83,7 +83,7 @@ dependencies {
 
 # Design
 
-I inspired from [this design](https://www.materialup.com/posts/android-player-playlist) which is designed by [Anatoly Nesterov](https://twitter.com/@Monadiform)
+Design is inspired by [Amine Ghabi #Androgeek](https://plus.google.com/114179835303944979306/posts)
 
 License
 --------
