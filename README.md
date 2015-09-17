@@ -3,14 +3,13 @@ Custom Progress Layout for Android
 
 [![Join the chat at https://gitter.im/iammert/ProgressLayout](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/iammert/ProgressLayout)
 
-[Here is the youtube link](https://www.youtube.com/watch?v=emDViR9g5H4)
 
-![](https://raw.githubusercontent.com/iammert/ProgressLayout/master/art/progress_layout_art.png "")
+![](https://raw.githubusercontent.com/amineghabi/ProgressLayout/master/art/progress_layout_art.png "")
 
 # XML Definition
 
 ```xml
- <co.mobiwise.library.ProgressLayout
+ <com.amineghabi.library.ProgressLayout
         android:id="@+id/progressLayout"
         android:layout_width="match_parent"
         android:layout_height="100dp"
@@ -22,7 +21,7 @@ Custom Progress Layout for Android
 
 # Attributes to use
 ```xml
-<co.mobiwise.library.ProgressLayout
+<com.amineghabi.library.ProgressLayout
 ...
 app:maxProgress="100"
 app:autoProgress="true"
@@ -90,7 +89,7 @@ License
 --------
 
 
-    Copyright 2015 Mert Şimşek.
+    Copyright 2015 Amine Ghabi.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
