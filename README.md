@@ -66,21 +66,6 @@ progressLayout.setProgressLayoutListener(new ProgressLayout.ProgressLayoutListen
 });
 ```
 
-# Gradle
-Add it to your project build.gradle
-```
- repositories {
-     // ...
-     maven { url "https://jitpack.io" }
- }
-```
-Add it to your app module build gradle.
-```
-dependencies {
-     compile 'com.github.iammert:ProgressLayout:a2ac196500'
-}
-```
-
 # Design
 
 Design is inspired by [Amine Ghabi](https://plus.google.com/114179835303944979306/posts)
